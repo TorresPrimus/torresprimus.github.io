@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #bd5d38;
+  --primary: darkred;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: peachpuff;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: darkred;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6110,7 +6110,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: darkred !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6238,7 +6238,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #bd5d38 !important;
+  border-color: darkred !important;
 }
 
 .border-secondary {
@@ -9809,7 +9809,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: darkred !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10111,7 +10111,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: darkred;
 }
 
 .dev-icons {
